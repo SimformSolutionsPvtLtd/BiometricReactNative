@@ -1,4 +1,4 @@
-package com.simform.reactnativeboilerplate;
+package com.simform.biometricreactnative;
 
 import android.app.Application;
 

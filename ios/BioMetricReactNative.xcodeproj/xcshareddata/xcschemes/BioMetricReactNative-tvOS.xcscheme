@@ -7,7 +7,7 @@
       buildImplicitDependencies = "YES">
       <BuildActionEntries>
          <BuildActionEntry
-            buildForReactNativeBoilerPlateing = "YES"
+            buildForBioMetricReactNativeing = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
@@ -21,7 +21,7 @@
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
-            buildForReactNativeBoilerPlateing = "YES"
+            buildForBioMetricReactNativeing = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
@@ -29,13 +29,13 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "ReactNativeBoilerPlate-tvOS.app"
-               BlueprintName = "ReactNativeBoilerPlate-tvOS"
-               ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+               BuildableName = "BioMetricReactNative-tvOS.app"
+               BlueprintName = "BioMetricReactNative-tvOS"
+               ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
-            buildForReactNativeBoilerPlateing = "YES"
+            buildForBioMetricReactNativeing = "YES"
             buildForRunning = "YES"
             buildForProfiling = "NO"
             buildForArchiving = "NO"
@@ -43,42 +43,42 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "ReactNativeBoilerPlate-tvOSReactNativeBoilerPlates.xctest"
-               BlueprintName = "ReactNativeBoilerPlate-tvOSReactNativeBoilerPlates"
-               ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+               BuildableName = "BioMetricReactNative-tvOSBioMetricReactNatives.xcBioMetricReactNative"
+               BlueprintName = "BioMetricReactNative-tvOSBioMetricReactNatives"
+               ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
-   <ReactNativeBoilerPlateAction
+   <BioMetricReactNativeAction
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
-      <ReactNativeBoilerPlateables>
-         <ReactNativeBoilerPlateableReference
+      <BioMetricReactNativeables>
+         <BioMetricReactNativeableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "ReactNativeBoilerPlate-tvOSReactNativeBoilerPlates.xctest"
-               BlueprintName = "ReactNativeBoilerPlate-tvOSReactNativeBoilerPlates"
-               ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+               BuildableName = "BioMetricReactNative-tvOSBioMetricReactNatives.xcBioMetricReactNative"
+               BlueprintName = "BioMetricReactNative-tvOSBioMetricReactNatives"
+               ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
             </BuildableReference>
-         </ReactNativeBoilerPlateableReference>
-      </ReactNativeBoilerPlateables>
+         </BioMetricReactNativeableReference>
+      </BioMetricReactNativeables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ReactNativeBoilerPlate-tvOS.app"
-            BlueprintName = "ReactNativeBoilerPlate-tvOS"
-            ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+            BuildableName = "BioMetricReactNative-tvOS.app"
+            BlueprintName = "BioMetricReactNative-tvOS"
+            ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
-   </ReactNativeBoilerPlateAction>
+   </BioMetricReactNativeAction>
    <LaunchAction
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ReactNativeBoilerPlate-tvOS.app"
-            BlueprintName = "ReactNativeBoilerPlate-tvOS"
-            ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+            BuildableName = "BioMetricReactNative-tvOS.app"
+            BlueprintName = "BioMetricReactNative-tvOS"
+            ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ReactNativeBoilerPlate-tvOS.app"
-            BlueprintName = "ReactNativeBoilerPlate-tvOS"
-            ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+            BuildableName = "BioMetricReactNative-tvOS.app"
+            BlueprintName = "BioMetricReactNative-tvOS"
+            ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

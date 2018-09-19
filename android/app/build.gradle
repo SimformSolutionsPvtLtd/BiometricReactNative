@@ -98,7 +98,7 @@ android {
     buildToolsVersion "27.0.3"
 
     defaultConfig {
-        applicationId "com.simform.reactnativeboilerplate"
+        applicationId "com.simform.biometricreactnative"
         minSdkVersion 22
         targetSdkVersion 26
         versionCode 1

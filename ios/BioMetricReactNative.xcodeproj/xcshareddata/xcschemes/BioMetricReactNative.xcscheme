@@ -7,7 +7,7 @@
       buildImplicitDependencies = "YES">
       <BuildActionEntries>
          <BuildActionEntry
-            buildForReactNativeBoilerPlateing = "YES"
+            buildForBioMetricReactNativeing = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
@@ -21,7 +21,7 @@
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
-            buildForReactNativeBoilerPlateing = "YES"
+            buildForBioMetricReactNativeing = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
@@ -29,13 +29,13 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ReactNativeBoilerPlate.app"
-               BlueprintName = "ReactNativeBoilerPlate"
-               ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+               BuildableName = "BioMetricReactNative.app"
+               BlueprintName = "BioMetricReactNative"
+               ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
-            buildForReactNativeBoilerPlateing = "YES"
+            buildForBioMetricReactNativeing = "YES"
             buildForRunning = "YES"
             buildForProfiling = "NO"
             buildForArchiving = "NO"
@@ -43,42 +43,42 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ReactNativeBoilerPlateReactNativeBoilerPlates.xctest"
-               BlueprintName = "ReactNativeBoilerPlateReactNativeBoilerPlates"
-               ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+               BuildableName = "BioMetricReactNativeBioMetricReactNatives.xcBioMetricReactNative"
+               BlueprintName = "BioMetricReactNativeBioMetricReactNatives"
+               ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
-   <ReactNativeBoilerPlateAction
+   <BioMetricReactNativeAction
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
-      <ReactNativeBoilerPlateables>
-         <ReactNativeBoilerPlateableReference
+      <BioMetricReactNativeables>
+         <BioMetricReactNativeableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ReactNativeBoilerPlateReactNativeBoilerPlates.xctest"
-               BlueprintName = "ReactNativeBoilerPlateReactNativeBoilerPlates"
-               ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+               BuildableName = "BioMetricReactNativeBioMetricReactNatives.xcBioMetricReactNative"
+               BlueprintName = "BioMetricReactNativeBioMetricReactNatives"
+               ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
             </BuildableReference>
-         </ReactNativeBoilerPlateableReference>
-      </ReactNativeBoilerPlateables>
+         </BioMetricReactNativeableReference>
+      </BioMetricReactNativeables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeBoilerPlate.app"
-            BlueprintName = "ReactNativeBoilerPlate"
-            ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+            BuildableName = "BioMetricReactNative.app"
+            BlueprintName = "BioMetricReactNative"
+            ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
-   </ReactNativeBoilerPlateAction>
+   </BioMetricReactNativeAction>
    <LaunchAction
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeBoilerPlate.app"
-            BlueprintName = "ReactNativeBoilerPlate"
-            ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+            BuildableName = "BioMetricReactNative.app"
+            BlueprintName = "BioMetricReactNative"
+            ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ReactNativeBoilerPlate.app"
-            BlueprintName = "ReactNativeBoilerPlate"
-            ReferencedContainer = "container:ReactNativeBoilerPlate.xcodeproj">
+            BuildableName = "BioMetricReactNative.app"
+            BlueprintName = "BioMetricReactNative"
+            ReferencedContainer = "container:BioMetricReactNative.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
